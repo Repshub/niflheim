@@ -1,0 +1,215 @@
+.audio {
+    width: 20%;
+     background-color: aliceblue;
+    color: darkcyan;
+    float: right;
+    display: block;
+    font-family: monospace;
+    border: 2px;
+    border-radius: 20px;
+    padding: 10px;
+    margin:10px;
+}
+h3 {
+    font-size: 17px;
+    font-family: monospace;
+    
+}
+.header {
+    font-size: 20px;
+    font-family: monospace;
+    padding: 10px;
+    color: darkblue;
+    background-color: aliceblue;
+    border: 2px;
+    border-radius: 20px;
+    margin: 20px;
+    
+}
+ 
+.intro {
+    font-size: 15px;
+    font-family: monospace;
+    padding: 20px;
+    color: darkblue;
+    background-color: aliceblue;
+    border: 2px;
+    border-radius: 20px;
+    padding: 30px;
+    width:70%;
+    margin: 20px;
+    float:left;
+}
+
+.about {
+    width: 15%;
+    height: 35%;
+    background-color: aliceblue;
+    color: darkcyan;
+    float: right;
+    display: block;
+    font-family: monospace;
+    border: 2px;
+    border-radius: 20px;
+    padding: 10px;
+    margin:10px;
+    
+}
+
+.contact {
+    width: 15%;
+    height: 35%;
+    background-color: aliceblue;
+    color: darkcyan;
+    float: right;
+    display: block;
+    font-family: monospace;
+    border: 2px;
+    border-radius: 20px;
+    padding: 10px;
+    margin:10px;
+}
+
+.villagers {
+    font-size: 15px;
+    font-family: monospace;
+    padding: 20px;
+    color: darkblue;
+    background-color: aliceblue;
+    border: 2px;
+    border-radius: 20px;
+    padding: 30px;
+    width:70%;
+    margin: 20px;
+    float:left;
+}
+.villagerportraits {
+    font-size: 15px;
+    font-family: monospace;
+    padding: 20px;
+    color: darkblue;
+    background-color: aliceblue;
+    border: 2px;
+    border-radius: 20px;
+    padding: 30px;
+    width:70%;
+    margin: 20px;
+    float:left;
+}
+.dreamies {
+     width: 15%;
+    height: 35%;
+    background-color: aliceblue;
+    color: darkcyan;
+    float: right;
+    display: block;
+    font-family: monospace;
+    border: 2px;
+    border-radius: 20px;
+    padding: 10px;
+    margin:10px;
+}
+
+.img_chevre {
+    height: 100px;  
+    float:left;
+    margin: 10px;
+    width:20%;
+    height:35%;
+    background-color: white;
+    border-radius: 20px;
+    padding: 10px;
+}
+.img_flurry {
+    height: 100px;
+    float:left;
+    margin: 10px;
+    width:20%;
+    height:35%;
+    background-color: white;
+    border-radius: 20px;
+    padding: 10px;
+}
+.img_chief {
+    height: 100px;
+    float:left;
+    margin: 10px;
+    width:20%;
+    height:35%;
+    background-color: white;
+    border-radius: 20px;
+    padding: 10px;
+}
+.img_cookie {
+    height: 100px;
+    float:left;
+    margin: 10px;
+    width:20%;
+    height:35%;
+    background-color: white;
+    border-radius: 20px;
+    padding: 10px;
+}
+.img_cousteau {
+    height: 100px;
+    float:left;
+    margin: 10px;
+    width:20%;
+    height:35%;
+    background-color: white;
+    border-radius: 20px;
+    padding: 10px;
+}
+.img_bones {
+    height: 100px;
+    float:left;
+    margin: 10px;
+    width:20%;
+    height:35%;
+    background-color: white;
+    border-radius: 20px;
+    padding: 10px;
+}
+.img_canberra {
+    height: 100px;
+    float:left;
+    margin: 10px;
+    width:20%;
+    height:35%;
+    background-color: white;
+    border-radius: 20px;
+    padding: 10px;
+}
+.img_diana {
+    height: 100px;
+    float:left;
+    margin: 10px;
+    width:20%;
+    height:35%;
+    background-color: white;
+    border-radius: 20px;
+    padding: 10px;
+}
+.img_miranda {
+    height: 100px;
+    float:left;
+    margin: 10px;
+    width:20%;
+    height:35%;
+    background-color: white;
+    border-radius: 20px;
+    padding: 10px;
+}
+.adoption {
+    width: 15%;
+    height: 35%;
+    background-color: aliceblue;
+    color: darkcyan;
+    float: right;
+    display: block;
+    font-family: monospace;
+    border: 2px;
+    border-radius: 20px;
+    padding: 10px;
+    margin:10px;
+}
